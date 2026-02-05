@@ -1,9 +1,20 @@
 {
   "name": "cryptoninjaeg",
   "version": "1.0.0",
+  "description": "Crypto Ninja Daily Alpha Telegram Bot",
   "main": "alpha-hunter.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node alpha-hunter.js"
+  },
   "dependencies": {
-    "axios": "latest",
-    "node-telegram-bot-api": "latest"
-  }
+    "axios": "^1.7.7",
+    "luxon": "^3.5.0",
+    "node-telegram-bot-api": "^0.66.0"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "Mohamed Badawy",
+  "license": "ISC"
 }
