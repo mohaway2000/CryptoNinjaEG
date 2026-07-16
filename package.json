@@ -1,1 +1,20 @@
-{\n  "name": "crypto-bot",\n  "version": "1.0.0",\n  "description": "A daily Telegram crypto bot.",\n  "main": "bot.js",\n  "scripts": {\n    "start": "node bot.js",\n    "dev": "nodemon bot.js",\n    "test": "echo \"No test specified\" && exit 0"\n  },\n  "dependencies": {\n    "axios": "^0.21.1",\n    "node-telegram-bot-api": "^0.48.0",\n    "moment": "^2.29.1",\n    "node-cron": "^3.0.0",\n    "dotenv": "^8.2.0",\n    "winston": "^3.3.3"\n  },\n  "devDependencies": {\n    "nodemon": "^2.0.0"\n  }\n}
+{
+  "name": "crypto-bot",
+  "version": "1.0.0",
+  "description": "A daily Telegram crypto bot.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0",
+    "axios": "^1.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "keywords": ["crypto", "bot", "telegram"],
+  "author": "",
+  "license": "MIT"
+}
