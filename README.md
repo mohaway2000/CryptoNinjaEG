@@ -1,59 +1,72 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,6,15,21&height=250&section=header&text=𝑀𝑜𝒽𝒶𝓂𝑒𝒷%20𝓑𝓪𝓭𝓪𝔀𝔂&fontSize=80&animation=fadeIn&fontColor=ffd700"/>
+# Hi there, I'm mohaway2000 👋
 
-<!-- صورة شخصية فاخرة -->
-<div align="center">
-<img src="https://github.com/mohaway2000/CryptoNinjaEG/raw/main/crypto-ninja.png" width="260" style="border-radius:50%; border:14px solid #00ff41; box-shadow: 0 0 70px #00ff4180;"/>
-</div>
+Welcome to my GitHub profile! I'm a passionate developer and open-source enthusiast committed to building innovative solutions and contributing to the developer community.
 
-<h1 align="center">𝑀𝑜𝒽𝒶𝓂𝑒𝒷 𝓑𝓪𝓭𝓪𝔀𝔂 👋</h1>
-<h3 align="center">Automation Expert • Passive Income Bots • Money While You Sleep</h3>
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohaway2000&label=Views&color=ffd700&style=flat-square"/>
-  <img src="https://img.shields.io/github/followers/mohaway2000?label=Followers&style=social"/>
-</p>
+## 🚀 About Me
 
-### أنا بعمل بوتات تجيب فلوس لوحدها
-- YouTube Auto Uploader (فيديوهات + شورتس + جدولة)  
-- Amazon/Noon Price Alerts (إشعار فوري لما السعر ينزل)  
-- Telegram & WhatsApp Money Bots (دخل يومي بدون مجهود)
+I'm dedicated to creating clean, efficient code and solving challenging problems. I believe in the power of collaboration and continuous learning. Whether it's building new projects, contributing to open source, or helping others grow, I'm always excited about the next opportunity.
 
-### التقنيات اللي بستخدمها
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,js,nodejs,react,express,selenium,git,github,linux,vscode,firebase,docker,aws,postgres,supabase&perline=12&theme=dark"/>
-</div>
+- 💻 Developer passionate about creating impactful software
+- 🌱 Constantly learning and exploring new technologies
+- 🤝 Open to collaboration and knowledge sharing
+- 🎯 Committed to writing quality, maintainable code
 
-### إحصائياتي
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mohaway2000&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=ffd700&title_color=ffd700&text_color=ffffff&icon_color=ffd700"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=mohaway2000&theme=tokyonight&border=ffd700&fire=ffd700&ring=ffd700&currStreakLabel=ffd700"/>
-</div>
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohaway2000&layout=compact&theme=tokyonight&border_color=ffd700&title_color=ffd700"/>
-</div>
+## 💡 What I'm Working On
 
-### خدماتي (متاح للعمل فورًا)
-<div align="center">
+- Building projects that make a difference
+- Contributing to open-source communities
+- Exploring emerging technologies and best practices
+- Sharing knowledge with fellow developers
 
-[![خمسات](https://img.shields.io/badge/خمسات-00C853?style=for-the-badge&logo=fiverr&logoColor=white)](https://khamsat.com/user/mohaway20000)
-[![مستقل](https://img.shields.io/badge/مستقل-6C63FF?style=for-the-badge&logo=freelancer&logoColor=white)](https://mostaql.com/u/mohaway2000)
-[![Upwork](https://img.shields.io/badge/Upwork-108A00?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01badawy)
+---
 
-</div>
+## 🛠️ Tech Stack
 
-### تواصل معايا
-<div align="center">
+**Languages & Frameworks:**
+- JavaScript / TypeScript
+- Python
+- React / Node.js
+- And more...
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mohaway2000)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201063964010)
-[![Email](https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=black)](mailto:mohaway2000@gmail.com)
+**Tools & Platforms:**
+- Git & GitHub
+- Docker
+- REST APIs
+- Cloud platforms
 
-</div>
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,6,15,21&height=150&section=footer"/>
-</p>
+## 📊 GitHub Stats
 
-> 💡 **"أنا مش بكتب كود… أنا بصنع آلات فلوس"**  
-> — Mohamed Badawy © 2025
+![Profile Views](https://komarev.com/ghpvc/?username=mohaway2000&color=blue)
+
+---
+
+## 🔗 Let's Connect
+
+I'd love to hear from you! Feel free to reach out through any of these channels:
+
+- **Email:** [Add your email]
+- **LinkedIn:** [Add your LinkedIn]
+- **Twitter:** [Add your Twitter]
+- **Portfolio:** [Add your portfolio]
+
+---
+
+## 📝 Latest Projects
+
+Check out some of my recent work and contributions. Each project represents my commitment to quality, innovation, and solving real-world problems.
+
+---
+
+## 💬 Open to Opportunities
+
+Whether you're interested in collaboration, have questions about my work, or just want to chat about tech, **I'm always open to connecting!** Feel free to open an issue or reach out directly.
+
+---
+
+⭐ *If you find my work interesting, consider starring some of my repositories!*
