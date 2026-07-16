@@ -99,7 +99,7 @@ I design and build **intelligent automation systems** that work 24/7, eliminatin
 
 ### 🔗 Hire Me On
 
-[![Upwork](https://img.shields.io/badge/Upwork-108A00?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01badawy)
+[![Upwork](https://img.shields.io/badge/Upwork-108A00?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~mohaway20000)
 [![Khamsat](https://img.shields.io/badge/خمسات-00C853?style=for-the-badge)](https://khamsat.com/user/mohaway20000)
 [![Mostaql](https://img.shields.io/badge/مستقل-6C63FF?style=for-the-badge)](https://mostaql.com/u/mohaway2000)
 [![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohaway2000)
@@ -181,7 +181,7 @@ This repository and its content are licensed under the MIT License - see [LICENS
 
 ### 💭 *"Code is poetry. Automation is freedom."*
 
-**© 2025 Mohamed Badawy** | [Twitter](https://twitter.com/badawy) | [GitHub](https://github.com/mohaway2000)
+**© 2025 Mohamed Badawy** | [Twitter](https://twitter.com/mohaway2000) | [GitHub](https://github.com/mohaway2000)
 
 Built with ❤️ for the automation community
 
